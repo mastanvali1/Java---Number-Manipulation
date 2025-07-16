@@ -27,10 +27,10 @@ javac FileName.java
 
 
 ## 📚 Requirements
-       - Java JDK (version 8 or above)
-       - Basic Java knowledge (input/output, loops, conditionals)
+ - Java JDK (version 8 or above)
+ - Basic Java knowledge (input/output, loops, conditionals)
 
-##💡 Who is this for?
+## 💡 Who is this for?
        - Beginners who are learning Java
        - Students practicing number-based problems
        - Anyone revising basic programming concepts

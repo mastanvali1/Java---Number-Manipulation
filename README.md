@@ -1,8 +1,7 @@
 # 🔢 Number Manipulation Programs in Java
 
-Welcome to the **Number Manipulation Programs** repository!  
-This project contains beginner-friendly Java programs focused on solving common number problems. Great for practicing logic building and Java basics.
-
+Welcome to the **Number & DSA Manipulation Programs** repository!  
+This project contains beginner-friendly Java programs for solving common number problems **and now includes Data Structures & Algorithm (DSA) questions as well**. The DSA section is being added gradually, so check back for new updates.
 ---
 
 ## 📂 Programs Included
@@ -12,6 +11,7 @@ This project contains beginner-friendly Java programs focused on solving common 
 - ✅ Find Nth Term in a Series
 - ✅ Sum of N Numbers
 - ✅ Factorial Calculation
+- ✅ DSA Questions (new, updating regularly)
 - ✅ And more...
 
 ---

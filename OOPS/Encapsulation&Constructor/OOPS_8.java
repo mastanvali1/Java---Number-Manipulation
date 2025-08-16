@@ -1,6 +1,6 @@
-//In this program you will see the both concepts, they are 
-// 1)Encapsulation.
-// 2)Constructor.
+//-------------- In this program you will see the both concepts, they are ------
+// ------------------  1)Encapsulation.
+// ------------------  2)Constructor.
 
 class Person {
     private int id;

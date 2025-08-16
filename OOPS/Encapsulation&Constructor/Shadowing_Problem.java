@@ -28,7 +28,7 @@ class student {
     }
 }
 
-class OOPS_10 {
+class Shadowing_Problem {
     public static void main(String[] args) {
        student p1 = new student(12, "Ajay", 99);
        p1.displayInfo();

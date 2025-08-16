@@ -1,3 +1,6 @@
+
+        //---------- class and object -----------
+
 import java.util.Scanner;
 
 //class : - class is the definition of object that which contains properties and behaviours.
@@ -16,7 +19,7 @@ class student{
 }
 
 
- public class OOPS_2 {
+ public class OOPS_1 {
     public static void main(String[] args) {
         // object : -  object is the programatical representation of class or instace of class.
 
@@ -27,14 +30,10 @@ class student{
         st.destination = scan.next();
         st.work();
         st.eat();
-
-        new student().work();  //anonymouse object.
     }
 }
 
 /*
 Basics of class and object creation with defination.
-
-anonymouse object:-  object are such objects which are not having any reference variable and we can use them only once
 
 */

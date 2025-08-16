@@ -1,3 +1,7 @@
+
+          //-------------- Encapsulation -----------
+
+
 class student {
    private int roll;
    private String name;

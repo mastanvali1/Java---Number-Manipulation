@@ -1,3 +1,6 @@
+
+      //--------static variable, static method, static block ---------
+
 import java.util.Scanner;
 
 class program{

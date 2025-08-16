@@ -1,4 +1,4 @@
-//    ---------------- Copy Constructor---------
+//    ----------------Copy Constructor---------
 
 class Student {
     String name;

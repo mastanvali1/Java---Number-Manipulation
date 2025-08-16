@@ -1,3 +1,6 @@
+
+        // ---------- Write a program to count no. of objects are created. ---------------
+
 class count {
     static int count = 0; // static variable to keep no.of objects created.
     

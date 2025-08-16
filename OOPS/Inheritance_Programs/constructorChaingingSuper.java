@@ -1,6 +1,6 @@
 
 
-        //------constructor changing using super()----------
+        //------constructor chainging using super()----------
 
 class Parent {
     int x;

@@ -1,16 +1,17 @@
 
-
-        //------constructor chainging using super()----------
+            //------constructor chainging using super()----------
 
 class Parent {
     int x;
+
+    Parent(int x) {
+        this.x = x;
+    }
+
     void displayParent() {
         System.out.println("This the parent ");
     }
-    void Parent(int a) {
-        this.x = a;
-       
-    }
+  
 }
 
 class child extends Parent {
@@ -18,27 +19,21 @@ class child extends Parent {
     void displayChild() {
         System.out.println("This the Child ");
     }
-    void child(int b) {
-      this.y = b;
+    child(int y) {
+      super(20);
+      this.y = y;
     }
    
 }
 
-class constructorChangingSuper {
+class constructorChaingingSuper {
     public static void main(String [] args) {
         child ch = new child(10);
-        ch.y = 20;
-        ch.x = 5;
+    
         System.out.println(ch.x);
         System.out.println(ch.y);
         ch.displayParent();
         ch.displayChild();
-
-        Parent p = new Parent(40);
-        p.x=50;
-        System.out.println(p.x);
-        
-        p.displayParent();
         
     }
 }

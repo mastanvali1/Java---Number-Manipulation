@@ -18,6 +18,7 @@ class Developer {
 }
 
 class JavaDeveloper extends Developer {
+        @Override
 	void project() {
 		System.out.println("Java Developer is doing Java project");
 	}
@@ -25,6 +26,7 @@ class JavaDeveloper extends Developer {
 
 
 class PythonDeveloper extends Developer {
+        @Override
 	void project() {
 		System.out.println("Python Developer is doing Python project");
 	}

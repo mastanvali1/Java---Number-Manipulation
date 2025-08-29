@@ -14,16 +14,18 @@ class Teacher {
 	}
 }
 class MathTeacher extends Teacher {
+        @Override
 	void teach() {
 		System.out.println("MathTeacher is Teaching");
 	}
 }
 class ScienceTeacher extends Teacher {
+        @Override
 	void teach() {
 		System.out.println("ScienceTeacher is Teaching");
 	}
 }
-public class Main1 {
+public class poly_02 {
 	public static void main(String[] args) {
 		MathTeacher mt = new MathTeacher();
 		ScienceTeacher st = new ScienceTeacher();

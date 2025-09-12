@@ -10,7 +10,9 @@ public class program_2 {
 		a = a + b;
 		b = a - b;
 		a = a - b;
-		System.out.println("after swaping numbers: " + "\n" + "value of a is : " + a + "\n" + "value of b is : " + b);
+		System.out.println("""
+                                   after swaping numbers: 
+                                   value of a is : """ + a + "\n" + "value of b is : " + b);
 	}
 
 }
